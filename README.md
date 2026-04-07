@@ -21,16 +21,18 @@ The dataset includes:
 - **Salary**
 
 ---
-
 ## 📈 Visualizations
 
 ### Salary vs Experience
-
+![Salary vs Experience](docs/visualizations/salary_experience.png)
 
 ### Salary vs Education Level
-
+![Salary vs Education](docs/visualizations/salary_education.png)
 
 ### Average Salary by Skills
+![Average Salary by Skills](docs/visualizations/salary_skills.png)
+
+
 
 ---
 
