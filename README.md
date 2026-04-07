@@ -1,12 +1,23 @@
-# Employee-Salary-Prediction-System
-## 📈 Visualizations
+Employee Salary Prediction System
+📌 Overview
+This project predicts employee salaries based on experience, education level, and skills using machine learning models. It also provides visualizations to understand the data better.
 
-### Salary vs Experience
-![Salary vs Experience](screenshots/salary_vs_experience.png)
+🚀 Features
+Predict salary using regression models
 
-### Salary vs Education Level
-![Salary vs Education Level](screenshots/salary_vs_education.png)
+Analyze impact of experience, education, and skills
 
-### Average Salary by Skills
-![Average Salary by Skills](screenshots/salary_by_skills.png)
+Visualize relationships between features and salary
 
+Export plots as .png images for documentation
+
+📊 Dataset
+The dataset includes:
+
+Experience (Years)
+
+Education Level
+
+Skills
+
+Salary
